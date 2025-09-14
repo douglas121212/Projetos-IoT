@@ -1,2 +1,2 @@
 # Projetos-IoT
-Lista de pesquisas voltadas em Iot
+Lista de pesquisas voltadas Para Iot
